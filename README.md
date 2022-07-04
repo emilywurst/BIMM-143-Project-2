@@ -1,3 +1,7 @@
 # BIMM-143-Project-2
 BIMM 143 Project 2  Analysis of Lacticaseibacillus rhamnosus amongst species
-This project uses Lacticaseibacillus rhamnosus 16S rRNA data from a beet anf human host.
+This project uses Lacticaseibacillus rhamnosus 16S rRNA data in a txt format from a beet and 2 human hosts.
+
+Question: Is rRNA 16S genomic data in gastrointestinal microbiota more consistent amongst related species?
+
+Hypothesis: Lacticaseibacillus rhamnosus is a common gastrointestinal microbiota found across many species. If the alignment of lacticaseibacillus rhamnsus between two organisms is high, then that organism is more closely related to humans compared to a less similar alignment between a human and a different non-human animal.
